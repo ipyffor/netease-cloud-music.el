@@ -89,7 +89,7 @@
   :group 'netease-cloud-music)
 
 (defcustom netease-cloud-music-api-repo
-  "https://github.com/SpringHan/NeteaseCloudMusicApi.git"
+  "https://github.com/Binaryify/NeteaseCloudMusicApi"
   "The git repo for ncm api.
 It will be cloned into `netease-cloud-music-api-dir' if `netease-cloud-music-api-type' is npm"
   :type 'string
